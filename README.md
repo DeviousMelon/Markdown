@@ -9,7 +9,7 @@
 }
 ```
 
-	|  | Description |
+| Command | Description |
 | ----------- | ----------- |
 | print | prints the statement |
 | println | prints the statement and moves to next line |
